@@ -1,0 +1,6 @@
+1. create the folder:
+	notebook :
+		data
+			data.csv
+		EDA.ipynb
+		Model_training_Experiments
